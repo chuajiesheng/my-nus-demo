@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
   def index
-    @value = 'people'
+    @value = 'nus'
   end
 end
